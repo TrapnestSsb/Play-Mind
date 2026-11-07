@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Modelos grandes
+*.pt
+*.pth
+*.joblib
+
+# Archivos temporales
+.DS_Store
+Thumbs.db

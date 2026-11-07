@@ -1,0 +1,14 @@
+name: Play_Mind
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - joblib
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - pandas
+  - numpy
+  - seaborn
+  - scipy
+prefix: C:\Users\Dieme\anaconda3\envs\Play_Mind
