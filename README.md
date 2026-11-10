@@ -1,4 +1,7 @@
 # PlayMind 
+Karen Cruces Sanchez 
+Romina Garcia Gaona
+Said Jimenez Velazquez
 Diccionario de variables:
 - PlayerID: identificador del jugador (no se usa como variable)
 - Age: edad
